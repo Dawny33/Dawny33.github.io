@@ -18,16 +18,16 @@ avatar: https://raw.githubusercontent.com/Dawny33/Dawny33.github.io/master/image
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: rajrohit@iitj.ac.in
+  email: jrajrohit33@gmail.com
   facebook: rajrohit.33
   flickr:
   github: Dawny33
-  instagram:
+  instagram: dawny.33
   linkedin: https://in.linkedin.com/in/jalemrajrohit
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: data__wizard
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/4993513/dawny33
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-100336452-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed

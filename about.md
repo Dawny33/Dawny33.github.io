@@ -4,9 +4,15 @@ title: About
 permalink: /about/
 ---
 
-"Who refuses to do arithmetic is doomed to talk nonsense."
+Bio:
+
+Jalem Raj Rohit is a Senior Consultant - Data Science and NLP at Episource. 
+
+He is currently responsible for all things Devops and backend infrastructure of the ML team [He likes to call it ML-Ops though].  
+
+Raj lives in Mumbai. 
 
 
 ### Contact me
 
-[email@domain.com](mailto:rajrohit@iitj.ac.in)
+[email](mailto:jrajrohit@iitj.ac.in)
