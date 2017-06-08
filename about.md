@@ -6,11 +6,14 @@ permalink: /about/
 
 Bio:
 
-I am Jalem Raj Rohit. I work as a Senior Consultant - Data Science and NLP at Episource. 
+I am Jalem Raj Rohit. I work as a Senior Consultant - Data Science and NLP at Episource.
+I am also the moderator of the [Devops site] (https://devops.stackexchange.com/) of StackOverflow
 
 I am currently responsible for all things Devops and backend infrastructure of the ML team. My area of interest lies in Recommender Systems, Distributed Systems and serverless computing.
 
 I lives in Mumbai. 
+
+
 
 
 ### Contact me
