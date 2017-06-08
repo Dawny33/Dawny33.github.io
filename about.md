@@ -6,11 +6,11 @@ permalink: /about/
 
 Bio:
 
-Jalem Raj Rohit is a Senior Consultant - Data Science and NLP at Episource. 
+I am Jalem Raj Rohit. I work as a Senior Consultant - Data Science and NLP at Episource. 
 
-He is currently responsible for all things Devops and backend infrastructure of the ML team [He likes to call it ML-Ops though].  
+I am currently responsible for all things Devops and backend infrastructure of the ML team. My area of interest lies in Recommender Systems, Distributed Systems and serverless computing.
 
-Raj lives in Mumbai. 
+I lives in Mumbai. 
 
 
 ### Contact me
