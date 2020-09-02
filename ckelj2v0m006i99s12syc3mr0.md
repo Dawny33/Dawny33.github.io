@@ -35,4 +35,4 @@ For zsh to auto-complete your scripts or code, they should be added to the  `plu
 
 My terminal settings and theme(s) complement my VS Code themes and settings very nicely. I shall write about my VS Code setup in the next post. 
 
-Hope you liked this article :)
+Hope you liked this article. Feel free to  [tweet](https://twitter.com/data__wizard)  to me if you have any questions or suggestions :)
